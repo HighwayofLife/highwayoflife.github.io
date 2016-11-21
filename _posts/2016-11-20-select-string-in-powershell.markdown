@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Working with Select-String Matches in Powershell"
-date:   2016-11-11 16:52:00 -0800
+author: "David Lewis"
+date:   2016-11-20 16:52:00 -0800
 ---
 
 Grep is one of the most useful Linux commands...
