@@ -130,4 +130,4 @@ NSB_PROMOTION
 {% endhighlight %}
 
 [foreach-object-docs]:  https://msdn.microsoft.com/powershell/reference/5.1/microsoft.powershell.core/ForEach-Object
-[select-string-dcos]:   https://technet.microsoft.com/en-us/library/hh849903.aspx
+[select-string-docs]:   https://technet.microsoft.com/en-us/library/hh849903.aspx
